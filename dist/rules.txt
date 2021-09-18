@@ -1,0 +1,16 @@
+! Title: Viral tweet piggyback list
+! Description: Block paid tweets that promote useless products on the replies of viral tweets
+! Expires: 4 days
+! Homepage: https://github.com/xetera/this-tweet-took-off
+
+twitter.com##article[data-testid='tweet']:has(a:has-text(mood-plushies.com/))
+twitter.com##article[data-testid='tweet']:has(a:has-text(beachbreezyjewelry.com/products))
+twitter.com##article[data-testid='tweet']:has(a:has-text(oceangalaxy.co/product))
+twitter.com##article[data-testid='tweet']:has(a:has-text(oceangalaxylight.shop/product))
+twitter.com##article[data-testid='tweet']:has(a:has-text(apollo-lightings.myshopify.com))
+twitter.com##article[data-testid='tweet']:has(a:has-text(hellacomfy.com/))
+twitter.com##article[data-testid='tweet']:has(a:has-text(sunsetic.com/))
+twitter.com##article[data-testid='tweet']:has(a:has-text(coolthingscafe.com/products))
+twitter.com##article[data-testid='tweet']:has(a:has-text(suctional.com/vibrator))
+! Banned promoters
+twitter.com##article[data-testid='tweet']:has(a:has-text(twitter.com/nowthatscoolll))

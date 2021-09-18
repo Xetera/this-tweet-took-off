@@ -1,0 +1,12 @@
+# Ad providers
+mood-plushies.com/
+beachbreezyjewelry.com/products
+oceangalaxy.co/product
+oceangalaxylight.shop/product
+apollo-lightings.myshopify.com
+hellacomfy.com/
+sunsetic.com/
+coolthingscafe.com/products
+suctional.com/vibrator
+# Banned promoters
+twitter.com/nowthatscoolll
