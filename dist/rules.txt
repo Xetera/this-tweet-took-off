@@ -3,14 +3,28 @@
 ! Expires: 4 days
 ! Homepage: https://github.com/xetera/this-tweet-took-off
 
+! Ad providers
+twitter.com##article[data-testid='tweet']:has(a:has-text(bit.ly/octoplushies))
 twitter.com##article[data-testid='tweet']:has(a:has-text(mood-plushies.com/))
-twitter.com##article[data-testid='tweet']:has(a:has-text(beachbreezyjewelry.com/products))
+twitter.com##article[data-testid='tweet']:has(a:has-text(squishplushies.com))
+twitter.com##article[data-testid='tweet']:has(a:has-text(beachybreezyjewelry.com/))
 twitter.com##article[data-testid='tweet']:has(a:has-text(oceangalaxy.co/product))
-twitter.com##article[data-testid='tweet']:has(a:has-text(oceangalaxylight.shop/product))
+twitter.com##article[data-testid='tweet']:has(a:has-text(oceangalaxylight.shop/))
 twitter.com##article[data-testid='tweet']:has(a:has-text(apollo-lightings.myshopify.com))
 twitter.com##article[data-testid='tweet']:has(a:has-text(hellacomfy.com/))
 twitter.com##article[data-testid='tweet']:has(a:has-text(sunsetic.com/))
-twitter.com##article[data-testid='tweet']:has(a:has-text(coolthingscafe.com/products))
-twitter.com##article[data-testid='tweet']:has(a:has-text(suctional.com/vibrator))
+twitter.com##article[data-testid='tweet']:has(a:has-text(shothomie.com/))
+twitter.com##article[data-testid='tweet']:has(a:has-text(firebox.com/))
+twitter.com##article[data-testid='tweet']:has(a:has-text(dentrie.com))
+twitter.com##article[data-testid='tweet']:has(a:has-text(coolthingscafe.com/))
+twitter.com##article[data-testid='tweet']:has(a:has-text(suctional.com/))
+twitter.com##article[data-testid='tweet']:has(a:has-text(loxxry.com/))
+twitter.com##article[data-testid='tweet']:has(a:has-text(owlprojector.com/))
+twitter.com##article[data-testid='tweet']:has(a:has-text(instagram.com/sayhelloforsho))
+! Ad keywords
+twitter.com##article[data-testid='tweet']:has(a:has-text(egyptcandles@gmail.com))
 ! Banned promoters
+twitter.com##article[data-testid='tweet']:has(a:has-text(twitter.com/Hella_Comfy))
+twitter.com##article[data-testid='tweet']:has(a:has-text(twitter.com/TheGreenTeaMask))
 twitter.com##article[data-testid='tweet']:has(a:has-text(twitter.com/nowthatscoolll))
+twitter.com##article[data-testid='tweet']:has(a:has-text(twitter.com/Kamirahpayne))
