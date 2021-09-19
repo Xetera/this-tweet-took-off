@@ -6,7 +6,7 @@ Ublock Origin filter list targeting long reply chains posted by twitter users wh
 
 ## Usage
 
-Simply import the following url into a uBlock Origin as a custom filter.
+Simply import the following url into uBlock Origin as a custom filter.
 
 ```
 https://raw.githubusercontent.com/Xetera/this-tweet-took-off/main/dist/rules.txt
