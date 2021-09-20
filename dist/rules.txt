@@ -19,6 +19,8 @@ twitter.com##article[data-testid='tweet']:has(a:has-text(dentrie.com))
 twitter.com##article[data-testid='tweet']:has(a:has-text(coolthingscafe.com/))
 twitter.com##article[data-testid='tweet']:has(a:has-text(suctional.com/))
 twitter.com##article[data-testid='tweet']:has(a:has-text(loxxry.com/))
+twitter.com##article[data-testid='tweet']:has(a:has-text(luxuryrealfr.com/))
+twitter.com##article[data-testid='tweet']:has(a:has-text(thedetoxmask.com/))
 twitter.com##article[data-testid='tweet']:has(a:has-text(owlprojector.com/))
 twitter.com##article[data-testid='tweet']:has(a:has-text(instagram.com/sayhelloforsho))
 ! Ad keywords
