@@ -1,0 +1,22 @@
+name: Build rules
+
+on:
+  push:
+    paths_ignore:
+      - "dist/**"
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+        with:
+          python-version: "3.8"
+      - run: python3 ./src/generate.py
+      - name: Commit rules
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Rebuilt rules
+          file_pattern: dist/*
+          commit_user_name: Ocean Galaxy Light
