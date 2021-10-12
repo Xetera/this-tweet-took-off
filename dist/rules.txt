@@ -23,6 +23,7 @@ twitter.com##article[data-testid='tweet']:has(a:has-text(luxuryrealfr.com/))
 twitter.com##article[data-testid='tweet']:has(a:has-text(thedetoxmask.com/))
 twitter.com##article[data-testid='tweet']:has(a:has-text(owlprojector.com/))
 twitter.com##article[data-testid='tweet']:has(a:has-text(instagram.com/sayhelloforsho))
+twitter.com##article[data-testid='tweet']:has(a:has-text(dimesso.com/remover))
 ! Ad keywords
 twitter.com##article[data-testid='tweet']:has(a:has-text(egyptcandles@gmail.com))
 ! Banned promoters
