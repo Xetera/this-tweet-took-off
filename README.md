@@ -12,6 +12,10 @@ Simply import the following url into uBlock Origin as a custom filter.
 https://raw.githubusercontent.com/Xetera/this-tweet-took-off/main/dist/rules.txt
 ```
 
+![](./step-1.png)
+
+![](./step-2.png)
+
 If you don't have uBlock installed, you can get it for [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/).
 
 ## Contribution
