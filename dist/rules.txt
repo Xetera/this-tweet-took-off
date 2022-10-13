@@ -26,6 +26,7 @@ twitter.com##article[data-testid='tweet']:has(a:has-text(instagram.com/sayhellof
 twitter.com##article[data-testid='tweet']:has(a:has-text(dimesso.com/remover))
 twitter.com##article[data-testid='tweet']:has(a:has-text(thepeelingmask.com/))
 twitter.com##article[data-testid='tweet']:has(a:has-text(vorthead.com/head))
+twitter.com##article[data-testid='tweet']:has(a:has-text(themalerose.com))
 ! Ad keywords
 twitter.com##article[data-testid='tweet']:has(a:has-text(egyptcandles@gmail.com))
 ! Banned promoters
